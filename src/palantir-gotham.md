@@ -1,0 +1,5 @@
+# Gotham and the Mapping of Dissent
+
+Palantir Gotham, an intelligence platform used extensively by the FBI, DHS, and the Department of Defense, specializes in "link analysis". It ingests disparate datasets—communication metadata, license plate registries, and financial records—to identify "threat patterns". Within the framework of the digital enclosure, the "detected signatures" from the EU Centre or domestic "safety" flags are not merely deleted; they are processed as intelligence signals.
+
+The synergy between automated detection and predictive analytics allows the state to map the social networks of political dissidents with high efficiency and minimal transparency. For instance, if a satirical meme or an unvetted organizational tool is flagged as "harmful" in Europe, the associated metadata can be ingested by US agencies to identify domestic participants in that cultural or political movement. This creates a transnational surveillance loop where regulatory "safety" is the input, and "neutralization of opposition" is the output.

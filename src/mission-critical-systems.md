@@ -1,0 +1,3 @@
+# The Role of "Mission Critical" Systems
+
+The depth of this integration is further evidenced by Palantir’s authorization for Mission Critical National Security Systems (IL5) by the U.S. Department of Defense. This status confirms that the analytics layer is a fundamental component of the state's security architecture. As data-mining becomes a multi-step process involving the integration of structured and streaming data, the public loses the ability to decide if they want to allow such surveillance in their lives, as the enclosure operates at the hardware and OS levels where consent is often a prerequisite for device functionality.
