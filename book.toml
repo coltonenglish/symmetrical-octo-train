@@ -1,0 +1,11 @@
+[book]
+authors = ["google-labs-jules[bot]"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Architecture of Digital Enclosure"
+
+[output.html]
+
+[output.llms-full-txt]
+optional = true
