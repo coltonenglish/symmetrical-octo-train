@@ -5,7 +5,10 @@ multilingual = false
 src = "src"
 title = "The Architecture of Digital Enclosure"
 
+[build]
+build-dir = "book"
+
 [output.html]
 
 [output.llms-full-txt]
-optional = true
+command = "python3 ../../bin/gen-llms-txt.py"
